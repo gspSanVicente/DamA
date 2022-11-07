@@ -1,0 +1,11 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 9CAE-A8D0
+
+ Directorio de C:\Users\gaspa\GitExercices\SecondRepo\DamA
+
+07/11/2022  13:09    <DIR>          .
+07/11/2022  13:04    <DIR>          ..
+07/11/2022  13:09                 0 file5.txt
+07/11/2022  12:58                27 readme.md
+               2 archivos             27 bytes
+               2 dirs  230.100.742.144 bytes libres
