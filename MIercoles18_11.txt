@@ -1,0 +1,13 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 9CAE-A8D0
+
+ Directorio de C:\Users\gaspa\GSP_DMAA\MyFirstRepo\DamA
+
+09/11/2022  18:11    <DIR>          .
+09/11/2022  17:59    <DIR>          ..
+09/11/2022  17:59               428 file5.txt
+09/11/2022  18:05                28 Miercoles18_04.txt
+09/11/2022  18:11                 0 MIercoles18_11.txt
+09/11/2022  18:06                49 readme.md
+               4 archivos            505 bytes
+               2 dirs  229.216.354.304 bytes libres
